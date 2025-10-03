@@ -1,8 +1,8 @@
-# T01.6-Ejercicios simples sobre listas y tuplas
+# T01.7-Ejercicios simples sobre listas y tuplas
 
 ## Bloque 1 - Listas y tuplas 
 
-1. En un módulo `funciones_ui.py` implementa una función `solicitar_datos_persona` que solicite por consola a un usuario su nombre, su peso y su estatura, y devuelva una tupla formada por un entero y dos reales con estos tres valores. Un ejemplo de uso sería el siguiente:
+1. En un módulo `funciones_ui.py` implementa una función `solicitar_datos_persona` que solicite por consola a un usuario su nombre, su peso y su estatura, y devuelva una tupla formada por una cadena, un entero y un reak con estos tres valores. Un ejemplo de uso sería el siguiente:
     ```python
     >>> Introduzca su nombre: Jane
     >>> Introduzca su peso (en kg): 75
